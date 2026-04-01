@@ -37,7 +37,7 @@ a {
 .banner {
   background-image:
     linear-gradient(rgba(0, 0, 0, 0.45), rgba(0, 0, 0, 0.35)),
-    url("banner.jpg");
+    url("https://images.unsplash.com/photo-1521737604893-d14cc237f11d?auto=format&fit=crop&w=1600&q=80");
   background-size: cover;
   background-position: center;
   padding: 140px 0;
